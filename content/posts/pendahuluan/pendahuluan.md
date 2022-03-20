@@ -1,4 +1,5 @@
 ---
+weight: 1
 title: "Pendahuluan"
 date: 2022-03-20T22:26:22+07:00
 draft: false
