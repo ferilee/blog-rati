@@ -27,11 +27,14 @@ E-modul ini merupakan salah satu bahan ajar elektronik yang dapat dimanfaatkan s
 
 * Kegiatan Pembelajaran 1, akan berfokus pada konsep nilai mutlak dan persamaan linear nilai mutlak serta penerapannya di kehidupan sehari-hari.
 * Kegiatan Pembelajaran 2, akan berfokus pada grafik fungsi nilai mutlak.
-* Kegiatan Pembelajaran 3, akan berpusat pada pertidaksamaan linear nilai mutlak dan penerapannya di kehidupan sehari-hari. Pada bagian akhir Kegiatan Pembelajaran juga akan disajikan penilaian sebagai bentuk refleksi atas pembelajaran yang telah dilakukan.
-Setelah mempelajari materi Nilai Mutlak, siswa diharapkan memiliki kompetensi sebagai berikut.
+* Kegiatan Pembelajaran 3, akan berpusat pada pertidaksamaan linear nilai mutlak dan penerapannya di kehidupan sehari-hari.
 
-Mengintepretasi persamaan dan pertidaksamaan nilai mutlak dari bentuk linear satu variabel dengan persamaan dan pertidaksamaan linear Aljabar lainnya.
-Menyelesaikan masalah yang berkaitan dengan persamaan dan pertidaksamaan nilai mutlak dari bentuk linear satu variabel. Adapun indikator keberhasilan atau pencapaian jika telah memiliki dua kompetensi di atas apabila siswa dapat:
+Pada bagian akhir Kegiatan Pembelajaran juga akan disajikan penilaian sebagai bentuk refleksi atas pembelajaran yang telah dilakukan.
+Setelah mempelajari materi Nilai Mutlak, siswa diharapkan memiliki kompetensi sebagai berikut.
+* Mengintepretasi persamaan dan pertidaksamaan nilai mutlak dari bentuk linear satu variabel dengan persamaan dan pertidaksamaan linear Aljabar lainnya.
+* Menyelesaikan masalah yang berkaitan dengan persamaan dan pertidaksamaan nilai mutlak dari bentuk linear satu variabel.
+
+Adapun indikator keberhasilan atau pencapaian jika telah memiliki dua kompetensi di atas apabila siswa dapat:
 * Menentukan penyelesaian persamaan nilai mutlak satu variabel.
 * Menentukan penyelesaian persamaan nilai mutlak satu varibel dan persamaan linear aljabar lainnya.
 * Menyelesaikan masalah yang berkaitan dengan persamaan nilai mutlak satu variabel Menggambar grafik fungsi nilai mutlak.
