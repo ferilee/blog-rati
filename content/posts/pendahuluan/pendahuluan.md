@@ -29,9 +29,6 @@ E-modul ini merupakan salah satu bahan ajar elektronik yang dapat dimanfaatkan s
 * Kegiatan Pembelajaran 2, akan berfokus pada grafik fungsi nilai mutlak.
 * Kegiatan Pembelajaran 3, akan berpusat pada pertidaksamaan linear nilai mutlak dan penerapannya di kehidupan sehari-hari.
 
-{{< style "text-align:justify; strong{color:#00b1ff;}" >}}
-<!--This is a **right-aligned** paragraph.
--->
 Pada bagian akhir Kegiatan Pembelajaran juga akan disajikan penilaian sebagai bentuk refleksi atas pembelajaran yang telah dilakukan.
 Setelah mempelajari materi Nilai Mutlak, siswa diharapkan memiliki kompetensi sebagai berikut.
 * Mengintepretasi persamaan dan pertidaksamaan nilai mutlak dari bentuk linear satu variabel dengan persamaan dan pertidaksamaan linear Aljabar lainnya.
