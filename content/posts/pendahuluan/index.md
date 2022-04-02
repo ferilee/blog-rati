@@ -45,13 +45,14 @@ Adapun indikator keberhasilan atau pencapaian jika telah memiliki dua kompetensi
 
 ### Petunjuk Penggunaan E-Modul
 {{< style "text-align:justify; strong{color:#00b1ff;}" >}}
-Sebelum mempelajari e-modul ini, terlebih dahulu siswa haruslah mempelajari kembali pengetahuan sebelumnya sebagai pengetahuan prasyarat yaitu :
-1. persamaan linear dan proses penyelesaiannya
-1. pertidaksamaan linear serta proses penyelesaiannya.
-1. fungsi linear dan cara menggambar grafiknya.
+1. Sebelum mempelajari e-modul ini, terlebih dahulu siswa haruslah mempelajari kembali pengetahuan sebelumnya sebagai pengetahuan prasyarat yaitu :
+  * persamaan linear dan proses penyelesaiannya
+  * pertidaksamaan linear serta proses penyelesaiannya.
+  * fungsi linear dan cara menggambar grafiknya.
 
-Pelajarilah e-modul ini secara berurutan agar lebih mudah memahami isi materi yang disajikan.
-Baca dan pahami pernyataan – pernyataan yang disajikan dalam e-modul berikut ini. Kemudian pikirkan kemungkinan jawabannya.
-Catatlah kemungkinan kemungkinan jawaban serta hal hal penting yang sudah dipahami ataupun belum dipahami.
-Diskusikan bersama teman sekelompok kemudian bahaslah hal hal yang dirasa perlu, untuk mempertegas kebenaran jawaban. Jika masih terdapat masalah yang tidak dapat diselesaikan dengan cara diskusi kelompok, diskusikanlah dengan guru!
+2. Pelajarilah e-modul ini secara berurutan agar lebih mudah memahami isi materi yang disajikan.
+3. Baca dan pahami pernyataan – pernyataan yang disajikan dalam e-modul berikut ini. Kemudian pikirkan kemungkinan jawabannya.
+4. Catatlah kemungkinan kemungkinan jawaban serta hal hal penting yang sudah dipahami ataupun belum dipahami.
+5. Diskusikan bersama teman sekelompok kemudian bahaslah hal hal yang dirasa perlu, untuk mempertegas kebenaran jawaban. 
+6. Jika masih terdapat masalah yang tidak dapat diselesaikan dengan cara diskusi kelompok, diskusikanlah dengan guru!
 {{< /style >}}
