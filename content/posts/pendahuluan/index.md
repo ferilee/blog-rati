@@ -2,7 +2,6 @@
 weight: 1
 title: "Pendahuluan"
 date: 2022-03-20T22:26:22+07:00
-draft: false
 author: "Rati"
 authorLink: "https://feelit.khusika.com"
 description: "E-modul ini merupakan salah satu bahan ajar elektronik yang dapat dimanfaatkan siswa dimanapun dan kapanpun menggunakan gawai ataupun perangkat komputer/laptop yang terhubung ke internet."
