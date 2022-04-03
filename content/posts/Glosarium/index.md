@@ -7,7 +7,7 @@ authorLink: "https://t.me/rati_sitiramziah"
 description: ""
 resources:
 - name: "featured-image"
-  src: "cover-glosarium.png"
+  src: "cover-besar.png"
 - name: "featured-image-preview"
   src: "cover-glosarium-preview.webp"
 
