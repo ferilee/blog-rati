@@ -7,7 +7,7 @@ authorLink: "https://feelit.khusika.com"
 description: "E-modul ini merupakan salah satu bahan ajar elektronik yang dapat dimanfaatkan siswa dimanapun dan kapanpun menggunakan gawai ataupun perangkat komputer/laptop yang terhubung ke internet."
 resources:
 - name: "featured-image"
-  src: "featured-image.webp"
+  src: "cover-besar.png"
 - name: "featured-image-preview"
   src: "Cover-preview.webp"
 
