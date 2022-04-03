@@ -9,7 +9,7 @@ resources:
 - name: "featured-image"
   src: "cover-besar.png"
 - name: "featured-image-preview"
-  src: "cover-glosarium-preview.webp"
+  src: "cover-preview.webp"
 
 tags: ["glosarium"]
 categories: ["Glosarium"]
