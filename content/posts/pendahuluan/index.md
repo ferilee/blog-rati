@@ -9,7 +9,7 @@ resources:
 - name: "featured-image"
   src: "featured-image.webp"
 - name: "featured-image-preview"
-  src: "featured-image-preview.webp"
+  src: "Cover-preview.webp"
 
 tags: ["pendahuluan"]
 categories: ["Pendahuluan"]
@@ -53,6 +53,6 @@ Adapun indikator keberhasilan atau pencapaian jika telah memiliki dua kompetensi
 2. Pelajarilah e-modul ini secara berurutan agar lebih mudah memahami isi materi yang disajikan.
 3. Baca dan pahami pernyataan – pernyataan yang disajikan dalam e-modul berikut ini. Kemudian pikirkan kemungkinan jawabannya.
 4. Catatlah kemungkinan kemungkinan jawaban serta hal hal penting yang sudah dipahami ataupun belum dipahami.
-5. Diskusikan bersama teman sekelompok kemudian bahaslah hal hal yang dirasa perlu, untuk mempertegas kebenaran jawaban. 
+5. Diskusikan bersama teman sekelompok kemudian bahaslah hal hal yang dirasa perlu, untuk mempertegas kebenaran jawaban.
 6. Jika masih terdapat masalah yang tidak dapat diselesaikan dengan cara diskusi kelompok, diskusikanlah dengan guru!
 {{< /style >}}
