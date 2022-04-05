@@ -22,4 +22,4 @@ lightgallery: true
 {{< style "text-align:justify; strong{color:#00b1ff;}" >}}
 <!--This is a **right-aligned** paragraph.
 -->
-
+Downing, D. (2009). Dictionary of Mathematics Terms. New York: Barrons.
