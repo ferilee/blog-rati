@@ -1,6 +1,6 @@
 ---
 weight: 4
-title: "kegiatan pembelajaran 2"
+title: "Kegiatan Pembelajaran 2"
 date: 2022-04-05T22:26:22+07:00
 author: "Rati"
 authorLink: "https://t.me/rati_sitiramziah"
@@ -18,7 +18,7 @@ lightgallery: true
 ---
 
 ## Kegiatan Pembelajaran 2
-## Persamaan Nilai Mutlak 
+## Persamaan Nilai Mutlak
 ### Uraian Materi
 {{< style "text-align:justify; strong{color:#00b1ff;}" >}}
 <!--This is a **right-aligned** paragraph.
@@ -33,4 +33,3 @@ lightgallery: true
 {{< style "text-align:justify; strong{color:#00b1ff;}" >}}
 <!--This is a **right-aligned** paragraph.
 -->
-

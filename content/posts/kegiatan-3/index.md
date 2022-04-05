@@ -1,6 +1,6 @@
 ---
 weight: 5
-title: "kegiatan pembelajaran 3"
+title: "Kegiatan Pembelajaran 3"
 date: 2022-04-05T22:26:22+07:00
 author: "Rati"
 authorLink: "https://t.me/rati_sitiramziah"
@@ -33,4 +33,3 @@ lightgallery: true
 {{< style "text-align:justify; strong{color:#00b1ff;}" >}}
 <!--This is a **right-aligned** paragraph.
 -->
-

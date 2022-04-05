@@ -1,6 +1,6 @@
 ---
 weight: 3
-title: "kegiatan pembelajaran 1"
+title: "Kegiatan Pembelajaran 1"
 date: 2022-04-05T22:26:22+07:00
 author: "Rati"
 authorLink: "https://t.me/rati_sitiramziah"
