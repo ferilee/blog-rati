@@ -21,10 +21,16 @@ lightgallery: true
 ## Pertidaksamaan Nilai Mutlak
 ### Uraian Materi
 {{< style "text-align:justify; strong{color:#00b1ff;}" >}}
+<!--This is a **right-aligned** paragraph.
+-->
 
 ### Latihan Soal
 {{< style "text-align:justify; strong{color:#00b1ff;}" >}}
+<!--This is a **right-aligned** paragraph.
+-->
 
 ### Penilaian Diri
 {{< style "text-align:justify; strong{color:#00b1ff;}" >}}
+<!--This is a **right-aligned** paragraph.
+-->
 
